@@ -59,5 +59,5 @@ tal caso le precipitazioni possono anche essere molto abbondanti, specialmente s
 <script src="js/vendor/jquery.min.js"> </sript>
 		<script src="js/vendor/bootstrap.min.js"> </script>
 <?php
- include_once'footer.php'
+ include_once'footer.php';
  ?>
