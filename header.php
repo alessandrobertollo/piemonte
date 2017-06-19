@@ -26,8 +26,8 @@
 			<ul class="nav navbar-nav">
 			<li<?php if ($title == "Home") { print 'class="active"';}?>><a href="index.php">Piemonte</a></li>
 			<li<?php if ($title == "Alpi") { echo ' class="active"';}?>><a href="Alpi.php">Alpi </a> </li>
-			<li<?php if ($title == "novara") { echo ' class="active"';}?> <a href="Novara.php">Novara</a></li>
-			<li<?php if ($title == "lago-maggiore") { echo ' class="active"';}?> <a href="lago-maggiore.php"> lago maggiore</a></li>
+			<li<?php if ($title == "novara") { echo ' class="active"';}?>> <a href="Novara.php">Novara</a></li>
+			<li<?php if ($title == "lago-maggiore") { echo ' class="active"';}?>> <a href="lago-maggiore.php"> lago maggiore</a></li>
 			</ul>
 		</nav>
 </header>
