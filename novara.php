@@ -62,5 +62,5 @@ Toscanini e il compianto Guido Cantelli, in anni piu' recenti ha ospitato il pro
 <br>
 <img src="images/casa-quaroni.jpg"/><br>Casa Quaroni</a>
 <?php
-include_once 'footer.php'
+include_once 'footer.php';
 ?>
