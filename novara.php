@@ -17,7 +17,7 @@ secondo comune della regione per popolazione dopo Torino e crocevia di important
 <P>Simbolo della citta' e' la cupola della Basilica di San Gaudenzio, alta 121 metri.</P>
 <img src ="images/cupola-novara.jpg"/> <br>La cupola della Basilica di San Gaudenzio</a>
 <p>Novara dista 49 km da Milano (15 km dal confine con la regione Lombardia), 95 km da Torino, 23 km da
-Vercelli. Dista inoltre circa 35 km dal <a href="lago-maggiore.html"/>Lago Maggiore</a> e 40 km dal Lago d'Orta.</p>
+Vercelli. Dista inoltre circa 35 km dal <a href="lago-maggiore.php"/>Lago Maggiore</a> e 40 km dal Lago d'Orta.</p>
 <img src = "images/risaie.jpg"/><br><p>Risaie allagate alla periferia della citta'</p>
 <br>
 <a name="primo"><h2>Monumenti e luoghi d'interesse</h2> 
