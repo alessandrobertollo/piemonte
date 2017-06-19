@@ -26,7 +26,7 @@ centro occidentali, sulla Pianura lombardo-piemontese e su sette laghi (Maggiore
 		Comabbio, Monate e Biandronno).</p>
 	<img src="images/mottarone.jpg"/><br>La vetta del Mottarone</a>
 <br>
-<p>Il Lago Maggiore dista circa 35 km dal <a href="novara.html#secondo"/>centro storico di Novara</a>e circa 50 km da Vercelli.</p>
+<p>Il Lago Maggiore dista circa 35 km dal <a href="novara.php#secondo"/>centro storico di Novara</a>e circa 50 km da Vercelli.</p>
 <hr>
 <?php
 include_once 'footer.php';
