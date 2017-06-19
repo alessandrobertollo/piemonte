@@ -1,6 +1,6 @@
 <?php
  $title = "novara";
- include_once 'header.php'
+ include_once 'header.php';
  ?>
  <h1>Novara</h1>
 		<nav>
