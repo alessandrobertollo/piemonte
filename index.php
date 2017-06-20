@@ -56,8 +56,7 @@ sono freddi ed umidi (spesso si formano nebbie fitte) ma poco piovosi. Le estati
 provengono da sud, sud-est o est, la catena alpina sbarra loro la strada (si tratta del fenomeno detto stau): in
 tal caso le precipitazioni possono anche essere molto abbondanti, specialmente sui primi versanti montani,
 	talvolta provocando alluvioni</P>
-<script src="js/vendor/jquery.min.js"> </sript>
-		<script src="js/vendor/bootstrap.min.js"> </script>
+
 <?php
  include_once'footer.php';
  ?>
